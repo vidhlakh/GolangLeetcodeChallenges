@@ -1,4 +1,4 @@
-package main
+package jan1
 
 // Check Array Formation Through Concatenation
 // Can reorder elements of the pieces array
@@ -36,6 +36,7 @@ func canFormArray(arr []int, pieces [][]int) bool {
 
 	return output
 }
+
 func main() {
 
 	fmt.Println("Hello Jan 1 ")
