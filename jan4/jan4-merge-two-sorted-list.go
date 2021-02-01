@@ -1,4 +1,4 @@
-package main
+package jan4
 
 // ListNode Singly linkedlist
 type ListNode struct {
